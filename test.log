@@ -1,0 +1,4 @@
+=== RUN   TestCmdHandler
+--- PASS: TestCmdHandler (0.00s)
+PASS
+ok  	go-app	0.004s
